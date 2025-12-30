@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Dhuka Mohammad</h1>
+<h1 align="center">👋 Hey, I'm Dhuka Muhammad</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+Developer;React+%2B+Node.js+Developer;API+%26+Database+Focused" />
