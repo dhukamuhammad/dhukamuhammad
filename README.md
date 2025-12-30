@@ -3,12 +3,12 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="60%" />
 </p>
 
-<h1 align="center">👋 Hey, I'm Alkama Sunasara</h1>
+<h1 align="center">👋 Hey, I'm Dhuka Mohammad</h1>
 
 <!-- Typing animation -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+MERN+Developer;React+%2B+Node.js+Specialist;API+%26+Database+Focused;Always+Learning%2C+Always+Building" />
-</p>
+</p> -->
 
 ---
 
@@ -105,10 +105,4 @@ I enjoy solving real problems using technology and continuously improving my dev
   <a href="mailto:alkama.codespace@gmail.com">
     <img src="https://img.shields.io/badge/Email-alkama.codespace%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/github.svg" width="100%" />
 </p>
