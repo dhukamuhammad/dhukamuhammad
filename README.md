@@ -79,7 +79,7 @@ and continuously improving my development skills.
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://alkamasunasara.vercel.app/" target="_blank">
+  <a href="https://dhukamohammad.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dhuka-muhammad-459a1536b/" target="_blank">
