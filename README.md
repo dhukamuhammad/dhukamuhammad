@@ -57,13 +57,9 @@ and continuously improving my development skills.
 ## 🚀 Projects
 
 - 💰 **CASHFLOW** – Group finance & ledger management system  
-
 - 🚗 **AJVA Motors** – A full-stack automobile business website  
-
 - 🛒 **E-Commerce Platform**  
-
 - 🎓 **College Lost & Found Portal**  
-
 - 🗂️ **Personal Portfolio Website**
 
 ---
@@ -79,13 +75,15 @@ and continuously improving my development skills.
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://dhukamohammad.netlify.app/" target="_blank">
+  <a href="https://dhukamohammad.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-Visit-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dhuka-muhammad-459a1536b/" target="_blank">
+
+  <a href="https://www.linkedin.com/in/dhuka-muhammad-459a1536b/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:dhukamuhammad93@gmail.com">
+
+  <a href="mailto:dhukamuhammad93@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
