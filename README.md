@@ -59,7 +59,6 @@ and continuously improving my development skills.
 - 💰 **CASHFLOW** – Group finance & ledger management system  
 
 - 🚗 **AJVA Motors** – A full-stack automobile business website  
-  🔗 Live: https://ajvamotors.com/
 
 - 🛒 **E-Commerce Platform**  
 
@@ -83,10 +82,10 @@ and continuously improving my development skills.
   <a href="https://alkamasunasara.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/alkama-sunasara-b682a3316/" target="_blank">
+  <a href="https://www.linkedin.com/in/dhuka-muhammad-459a1536b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:alkama.codespace@gmail.com">
+  <a href="mailto:dhukamuhammad93@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
