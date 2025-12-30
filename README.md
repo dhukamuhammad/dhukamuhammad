@@ -96,12 +96,12 @@ I enjoy solving real problems using technology and continuously improving my dev
 <p align="center">
   <a href="https://alkamasunasara.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <br/><br/>
+  </a>&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/alkama-sunasara-b682a3316/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Alkama%20Sunasara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <br/><br/>
+  </a>&nbsp;&nbsp;
+
   <a href="mailto:alkama.codespace@gmail.com">
     <img src="https://img.shields.io/badge/Email-alkama.codespace%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
