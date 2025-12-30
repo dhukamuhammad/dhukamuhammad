@@ -18,12 +18,12 @@ and continuously improving my development skills.
 
 ## 💡 What I Do
 
-- 🧩 Full-Stack Web Development (MERN)
-- 🏗️ Admin Dashboards & Management Systems
-- 🛒 E-Commerce Platforms
-- 🏢 Real Estate Applications
-- 📊 Finance & Ledger Systems
-- 📱 React Native Mobile Apps
+- 🧩 Full-Stack Web Development  
+- 🏗️ Admin Dashboards & Management Systems  
+- 🛒 E-Commerce Platforms  
+- 🚗 Business & Corporate Websites  
+- 📊 Finance & Ledger Systems  
+- 📱 Mobile App Development  
 
 ---
 
@@ -56,19 +56,24 @@ and continuously improving my development skills.
 
 ## 🚀 Projects
 
-- 💰 **CASHFLOW** – Group finance & ledger system  
-- 🏢 **Real Estate Management System**  
+- 💰 **CASHFLOW** – Group finance & ledger management system  
+
+- 🚗 **AJVA Motors** – A full-stack automobile business website  
+  🔗 Live: https://ajvamotors.com/
+
 - 🛒 **E-Commerce Platform**  
+
 - 🎓 **College Lost & Found Portal**  
+
 - 🗂️ **Personal Portfolio Website**
 
 ---
 
 ## 🌱 Currently Learning
 
-- ⚛️ Advanced React & optimization
-- 🔐 Backend security & architecture
-- 📱 React Native with Expo
+- ⚛️ Advanced React & performance optimization  
+- 🔐 Backend security & scalable architecture  
+- 📱 Mobile app development  
 
 ---
 
